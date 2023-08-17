@@ -1,3 +1,4 @@
+![Logo](https://github.com/ajayjangid00/ajayjangid/blob/main/Screenshot%202023-08-17%20163856.png)
 <h1 align="center">Hi 👋, I'm Ajay Jangid</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
